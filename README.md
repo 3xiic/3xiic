@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<a href="https://github.com/3xiic/">
-   <img height="180rem" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=3xiic&layout=compact&theme=react" />
-   <img height="180rem"  align="left" src="https://streak-stats.demolab.com?user=3xiic&theme=react" alt="GitHub Streak" /></a>
+<a display="flex" href="https://github.com/3xiic/">
+   <img  height="180rem" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=3xiic&layout=compact&theme=react" />
+   <img  height="180rem" src="https://streak-stats.demolab.com?user=3xiic&theme=react" alt="GitHub Streak" /></a>
 </a>
 </div>
 
