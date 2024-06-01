@@ -14,8 +14,6 @@
 -  🕛 I’m currently learning **Kotlin and React.js**
 
 
-<h5>🎧 I like develop while i listening:</h5> 
-<a href="https://open.spotify.com/intl-es/track/2CEf2gU5ZJamLXa3NrgAvA?si=1949b41b6dc64471" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"> </a>
 
 <br>
 <br>
