@@ -1,7 +1,5 @@
 <h1 align="center">I'm Esteban Mejia ♡</h1>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
   <h3>I'm Competitive programmer, soon-to-graduate Computer Science student, Back-end and Front-end developer </h3>
 </div>
 
